@@ -1,7 +1,10 @@
-# Dockerfile Lab No. 2
+# Advanced Dockerfile Techniques
 
 ## Introduction
 In this lab, you will learn how to create a more advanced Dockerfile. This Dockerfile will include additional instructions to optimize the image and handle environment variables.
+
+## Purpose
+The purpose of this lab is to teach you how to create a more advanced Dockerfile that includes optimization techniques and the use of environment variables. By the end of this lab, you will be able to create efficient and manageable Docker images using multi-stage builds.
 
 ## Objectives
 - Understand how to use environment variables in a Dockerfile.
