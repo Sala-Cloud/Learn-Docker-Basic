@@ -99,4 +99,16 @@ Docker's architecture is based on a **client-server model** and includes several
 
 ### High-Level Architecture
     ```
-    +--------------------------------------------------------+ | Docker Architecture | +------------------------+-------------------------------+ | Docker CLI | Docker REST API | +------------------------+-------------------------------+ | Docker Daemon (dockerd) | +--------------------------------------------------------+ | Image Management | Container Runtime | | (Images/Registries) | (Containers/Networks) | +--------------------------------------------------------+ | Host OS Kernel (Namespaces, Control Groups, etc.) | +--------------------------------------------------------+
+    +--------------------------------------------------------+
+    |                    Docker Architecture                 |
+    +------------------------+-------------------------------+
+    |       Docker CLI       |        Docker REST API        |
+    +------------------------+-------------------------------+
+    |                Docker Daemon (dockerd)                 |
+    +--------------------------------------------------------+
+    |      Image Management   |    Container Runtime         |
+    |   (Images/Registries)   | (Containers/Networks)        |
+    +--------------------------------------------------------+
+    |    Host OS Kernel (Namespaces, Control Groups, etc.)   |
+    +--------------------------------------------------------+
+    ```
