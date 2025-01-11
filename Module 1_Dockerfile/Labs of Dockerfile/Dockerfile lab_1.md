@@ -1,7 +1,10 @@
-# Dockerfile Lab No. 1
+# Dockerfile Basics Lab
 
 ## Introduction
 In this lab, you will learn the basics of creating a Dockerfile. A Dockerfile is a text document that contains all the commands to assemble an image. Using Dockerfile, you can automate the process of creating Docker images.
+
+## Purpose
+The purpose of this lab is to introduce you to the basics of creating a Dockerfile, which is essential for automating the process of building Docker images. By the end of this lab, you will have a foundational understanding of how to create and use Dockerfiles to containerize your applications.
 
 ## Objectives
 - Understand the purpose and structure of a Dockerfile.
@@ -68,3 +71,5 @@ In this lab, you learned how to create a simple Dockerfile, build a Docker image
 ## Additional Resources
 - [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
 - [Best Practices for Writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+
+
