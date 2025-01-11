@@ -118,5 +118,5 @@ Docker's architecture is based on a **client-server model** and includes several
 2. The **Docker Daemon** pulls the image from a Registry if it is not available locally.
 3. The **Docker Daemon** creates and starts the container from the image.
 4. Containers can use volumes for persistent data or networks for communication.
-3. The Docker Daemon creates and starts the container from the image.
-4. Containers can use volumes for persistent data or networks for communication.
+3. The **Docker Daemon** creates and starts the container from the image.
+4. Containers can use **volumes** for persistent data or **networks** for communication.
