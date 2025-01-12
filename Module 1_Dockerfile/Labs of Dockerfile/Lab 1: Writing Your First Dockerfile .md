@@ -1,4 +1,5 @@
-- **Title:** Writing Your First Dockerfile  
+**Lab 1:  Writing Your First Dockerfile**   
+
 - **Description:** Create a simple Dockerfile that builds an image with a base OS and a custom message.  
 - **Purpose:** Understand the basic structure of a Dockerfile and the `FROM` and `CMD` instructions.  
 - **Key Concepts:**  
