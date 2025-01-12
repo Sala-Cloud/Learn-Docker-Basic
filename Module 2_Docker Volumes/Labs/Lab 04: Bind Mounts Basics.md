@@ -1,4 +1,4 @@
-## Lab 4: Bind Mounts Basics
+## Lab 04: Bind Mounts Basics
 
 **Description:** Use bind mounts to link a host directory to a container.  
 **Objective:** Learn to synchronize changes between host and container.  

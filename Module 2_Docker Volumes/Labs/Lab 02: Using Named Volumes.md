@@ -1,4 +1,4 @@
-## Lab 2: Using Named Volumes
+## Lab 02: Using Named Volumes
 
 **Description:** Use named volumes to persist data in a container.  
 **Objective:** Understand how to specify and reuse named volumes.  

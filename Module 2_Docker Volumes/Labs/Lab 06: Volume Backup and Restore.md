@@ -1,4 +1,4 @@
-## Lab 6: Volume Backup and Restore
+## Lab 06: Volume Backup and Restore
 
 **Description:** Learn to back up and restore data from Docker volumes.  
 **Objective:** Practice volume management for critical data.  

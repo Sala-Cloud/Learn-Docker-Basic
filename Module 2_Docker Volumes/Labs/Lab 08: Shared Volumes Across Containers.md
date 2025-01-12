@@ -1,4 +1,4 @@
-## Lab 8: Shared Volumes Across Containers
+## Lab 08: Shared Volumes Across Containers
 
 **Description:** Share a volume between multiple containers.  
 **Objective:** Learn how to manage shared data.  

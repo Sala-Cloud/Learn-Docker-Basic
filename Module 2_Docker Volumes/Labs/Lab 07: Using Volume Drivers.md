@@ -1,4 +1,4 @@
-## Lab 7: Using Volume Drivers
+## Lab 07: Using Volume Drivers
 
 **Description:** Explore volume drivers to integrate external storage solutions.  
 **Objective:** Understand advanced volume configurations.  

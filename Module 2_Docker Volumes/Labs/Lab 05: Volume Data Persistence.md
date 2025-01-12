@@ -1,4 +1,4 @@
-## Lab 5: Volume Data Persistence
+## Lab 05: Volume Data Persistence
 
 **Description:** Use volumes to persist data beyond the container lifecycle.  
 **Objective:** Retain data even after containers are removed.  

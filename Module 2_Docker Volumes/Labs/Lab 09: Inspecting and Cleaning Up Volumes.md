@@ -1,4 +1,4 @@
-## Lab 9: Inspecting and Cleaning Up Volumes
+## Lab 09: Inspecting and Cleaning Up Volumes
 
 **Description:** Learn to inspect and clean up unused volumes.  
 **Objective:** Manage volume lifecycle and reclaim disk space.  

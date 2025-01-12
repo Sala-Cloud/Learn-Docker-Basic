@@ -1,4 +1,4 @@
-## Lab 3: Using Anonymous Volumes
+## Lab 03: Using Anonymous Volumes
 
 **Description:** Learn to work with anonymous volumes and explore their lifecycle.  
 **Objective:** Differentiate between named and anonymous volumes.  

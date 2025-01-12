@@ -1,4 +1,4 @@
-## Lab 1: Introduction to Docker Volumes
+## Lab 01: Introduction to Docker Volumes
 
 **Description:** Learn the basics of Docker volumes, including creating and listing volumes.  
 **Objective:** Understand the purpose of volumes and how to interact with them.  
