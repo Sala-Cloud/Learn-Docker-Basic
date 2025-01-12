@@ -1,4 +1,4 @@
-### **Lab 4: Working with Environment Variables**
+### **Lab 04: Working with Environment Variables**
 - **Title:** Setting Environment Variables  
 - **Description:** Use the `ENV` instruction to set environment variables in your Dockerfile.  
 - **Purpose:** Pass configuration settings to the container at runtime.  

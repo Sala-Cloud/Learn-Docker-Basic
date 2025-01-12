@@ -1,4 +1,4 @@
-**Lab 2: Adding Files to the Container**
+**Lab 02: Adding Files to the Container**
 
 - **Title:** Adding Files to the Container  
 - **Description:** Learn to add files to your Docker container using the `COPY` and `ADD` instructions.  

@@ -1,4 +1,4 @@
-### **Lab 9: ARG vs ENV**
+### **Lab 09: ARG vs ENV**
 - **Title:** Build-Time vs Runtime Variables  
 - **Description:** Learn the difference between `ARG` and `ENV` by creating a Dockerfile with configurable build-time and runtime variables.  
 - **Purpose:** Understand when to use build arguments and environment variables.  

@@ -1,4 +1,4 @@
-### **Lab 3: Installing Packages**
+### **Lab 03: Installing Packages**
 - **Title:** Install Software in the Image  
 - **Description:** Create a Dockerfile that installs software packages like `curl` or `wget` during the image build.  
 - **Purpose:** Automate the installation of required tools for your container.  

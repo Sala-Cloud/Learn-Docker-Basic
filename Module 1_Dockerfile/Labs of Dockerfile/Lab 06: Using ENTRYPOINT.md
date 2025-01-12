@@ -1,4 +1,4 @@
-### **Lab 6: Using ENTRYPOINT**
+### **Lab 06: Using ENTRYPOINT**
 - **Title:** Defining the Entry Point for Your Container  
 - **Description:** Explore the difference between `ENTRYPOINT` and `CMD` by defining a custom entry point for your container.  
 - **Purpose:** Configure the container to behave like an executable.  

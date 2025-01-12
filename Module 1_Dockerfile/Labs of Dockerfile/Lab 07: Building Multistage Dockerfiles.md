@@ -1,4 +1,4 @@
-### **Lab 7: Building Multistage Dockerfiles**
+### **Lab 07: Building Multistage Dockerfiles**
 - **Title:** Create a Multi-Stage Build  
 - **Description:** Use multiple `FROM` instructions to optimize image size and separate build steps.  
 - **Purpose:** Reduce image size by excluding unnecessary build dependencies.  

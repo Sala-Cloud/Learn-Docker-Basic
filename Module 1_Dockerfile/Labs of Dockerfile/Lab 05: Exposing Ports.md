@@ -1,4 +1,4 @@
-### **Lab 5: Exposing Ports**
+### **Lab 05: Exposing Ports**
 - **Title:** Configuring Networking for Containers  
 - **Description:** Use the `EXPOSE` instruction to specify the ports your container will listen on.  
 - **Purpose:** Inform users about network ports that should be mapped.  
