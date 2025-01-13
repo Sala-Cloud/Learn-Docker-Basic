@@ -20,7 +20,7 @@ Docker is a platform that enables developers to create, deploy, and run applicat
 
 Below is a diagram illustrating the architecture of Docker:
 
-![Docker Architecture](https://www.docker.com/sites/default/files/d8/2018-11/docker-architecture.svg)
+![Docker Architecture](../images/architectures.jpg)
 
 ## Description
 
